@@ -1,0 +1,7 @@
+01-what-is-a-router.md
+02-routing-table.md
+03-path-of-a-packet.md
+04-routing-protocols.md
+05-distance-vector-protocols.md
+06-link-state-protocols.md
+07-bgp-border-gateway-protocol.md

@@ -1,0 +1,13 @@
+01-regular-expressions-regex.md
+02-text-editors-vim-or-emacs.md
+03-vim-text-editor.md
+04-vim-search-patterns.md
+05-vim-navigation.md
+06-vim-inserting-appending-text.md
+07-vim-editing.md
+08-vim-saving-and-exiting.md
+09-emacs-text-editor.md
+10-emacs-manipulate-files.md
+11-emacs-buffer-navigation.md
+12-emacs-editing.md
+13-emacs-exiting-and-help.md

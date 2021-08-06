@@ -1,3 +1,5 @@
+This is just the linuxjourney course, except the english verison is ordered.
+
 # Linux Journey
 
 [Linux Journey](https://linuxjourney.com) is a site dedicated to making learning Linux fun and easy.

@@ -1,4 +1,3 @@
-01-course-order.txt
 01-linux-history.md
 02-choosing-a-linux-distribution.md
 03-debian.md
